@@ -15,7 +15,7 @@ body{
 }
 
 .input-container{
-    width: 400px;
+    width: 50%;
     max-width: 540px;
     background-color: rgb(128, 126, 126);
     padding: 10px 5px;
